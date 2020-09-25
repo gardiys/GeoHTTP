@@ -121,6 +121,7 @@ venv.bak/
 /site
 .idea
 /.idea
+.DS_Store
 # mypy
 .mypy_cache/
 .dmypy.json
